@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 240e452aa6bd3ab49b7d09e867c6ada9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Amble
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1d5b17b41331ce141be69742042d66bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
